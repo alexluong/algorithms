@@ -1,0 +1,35 @@
+{
+  "name": "es6-algo",
+  "version": "1.0.0",
+  "description": "NodeJS setup for algorithm practices in ES6",
+  "main": "index.js",
+  "scripts": {
+    "babel-node": "babel-node --presets=latest",
+    "start": "nodemon --exec npm run babel-node -- ./index.js",
+    "build": "babel index.js -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexluong/es6-algo.git"
+  },
+  "author": "Alex Luong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexluong/es6-algo/issues"
+  },
+  "homepage": "https://github.com/alexluong/es6-algo#readme",
+  "babel": {
+    "presets": [
+      "latest"
+    ]
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-latest": "^6.24.1",
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
