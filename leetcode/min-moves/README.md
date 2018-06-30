@@ -1,3 +1,3 @@
-# ES6 Setup
+# Minimum Moves to Equal Array Elements
 
-Simple ES6 setup for algorithm practices 
+[problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)
