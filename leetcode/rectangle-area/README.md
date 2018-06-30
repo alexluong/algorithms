@@ -1,3 +1,3 @@
-# ES6 Setup
+# Rectangle Area
 
-Simple ES6 setup for algorithm practices 
+[problem](https://leetcode.com/problems/rectangle-area/)
