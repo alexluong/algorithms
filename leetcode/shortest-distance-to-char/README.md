@@ -1,3 +1,3 @@
-# ES6 Setup
+# Shortest Distance to a Character
 
-Simple ES6 setup for algorithm practices 
+[problem](https://leetcode.com/problems/shortest-distance-to-a-character)
